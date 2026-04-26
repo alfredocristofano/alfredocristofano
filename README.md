@@ -18,7 +18,7 @@ distributed systems and data-intensive applications in the .NET ecosystem.
 Currently working on enterprise platforms in the media & broadcasting industry
 with **.NET** and **Couchbase**.
 
-Outside of work, I'm into **Large Language Models** — how they work under the hood,
+Outside of work, I'm into **Large Language Models**  -  how they work under the hood,
 how to build on top of them, and where they actually add value in real software.
 
 ---
@@ -28,7 +28,6 @@ how to build on top of them, and where they actually add value in real software.
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Databases**  
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat&logo=couchbase&logoColor=white)
@@ -43,7 +42,7 @@ how to build on top of them, and where they actually add value in real software.
 
 ## 🚀 What I'm Working On
 
-- **Contributing to [OpenCode](https://github.com/anomalyco/opencode)** — the open-source,
+- **Contributing to [OpenCode](https://github.com/anomalyco/opencode)**  -  the open-source,
   terminal-native AI coding agent with 140K+ GitHub stars
 - Building data-intensive systems with Couchbase and .NET
 - Exploring how LLMs integrate into production architectures
@@ -52,10 +51,10 @@ how to build on top of them, and where they actually add value in real software.
 
 ## 📚 Certifications
 
-- B.Sc. in Computer Science for Digital Business — Pegaso Telematic University
+- B.Sc. in Computer Science for Digital Business  -  Pegaso Telematic University
 - Java Developer Certificate
-- Anthropic — Claude 101
-- Anthropic — Claude Code in Action (2026)
+- Anthropic  -  Claude 101
+- Anthropic  -  Claude Code in Action (2026)
 
 ---
 
@@ -67,7 +66,7 @@ how to build on top of them, and where they actually add value in real software.
 
 ## ⚡ Outside the Terminal
 
-When I'm not coding, you'll find me watching **Naruto Shippuden** (I swear I'll finish it),
+When I'm not coding, you'll find me catching up with **One Piece** (finally up to date),
 playing competitive games on PS5 or Switch 2, or listening to **The Weeknd** on repeat.
 
 ---
