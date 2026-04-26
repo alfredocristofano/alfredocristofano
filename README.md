@@ -28,6 +28,7 @@ how to build on top of them, and where they actually add value in real software.
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 **Databases**  
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat&logo=couchbase&logoColor=white)
