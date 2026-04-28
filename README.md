@@ -45,6 +45,7 @@ how to build on top of them, and where they actually add value in real software.
 
 - **Contributing to [OpenCode](https://github.com/anomalyco/opencode)**  -  the open-source,
   terminal-native AI coding agent with 140K+ GitHub stars
+- **Contributing to [NoChat4U](https://github.com/miguel-mpm/NoChat4U)**
 - Building data-intensive systems with Couchbase and .NET
 - Exploring how LLMs integrate into production architectures
 
