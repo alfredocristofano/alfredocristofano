@@ -37,7 +37,6 @@ how to build on top of them, and where they actually add value in real software.
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-Contributor-orange?style=flat)
 
 ---
 
